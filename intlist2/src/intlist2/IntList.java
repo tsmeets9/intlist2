@@ -1,5 +1,6 @@
 package intlist2;
 
+// Nog niks reeds geimplementeerd
 class Node {
 	int element;
 	Node next;
